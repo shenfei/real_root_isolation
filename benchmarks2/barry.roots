@@ -1,0 +1,52 @@
+SUMMURY:
+--------------------
+The # of total roots of Homotopy: 20
+The # of real roots of Homotopy: 
+The # of real roots verified: 2
+The # of real roots of Discoverer: 
+The complex roots prior detected: 18 / 20
+The # of repeat roots processed: 0
+
+The average iteration times: 1.000
+The total time: 0.421203
+The time of Homotopy: 0.093601
+The time of interval arithmetic: 0.327602
+The time of disjoint and narrowing process: 0.000000
+The time of Discoverer: 
+
+The average radius of result interval: 3.552714e-015
+The max initial width: 2.435681e-014
+The average of initial width: 1.377800e-014
+
+The max width calc time: 0.031200
+The average of width calc time: 0.010920
+
+The max Krawczyk iteration time: 0.062400
+The average of Krawczyk iteration time: 0.054600
+--------------------
+
+ISOLATED REAL ROOTS
+--------------------
+1:
+[   1.02150830460883,   1.02150830460884]
+[  -0.88011173679340,  -0.88011173679339]
+[ -21.31027782897012, -21.31027782897010]
+Initial width: 2.435681e-014
+Time of width calc: 0.015600
+Time of Krawczyk iteration: 0.046800
+--------------------
+
+2:
+[  -1.25491815458569,  -1.25491815458568]
+[   0.88011173679339,   0.88011173679340]
+[  25.97847482850707,  25.97847482850709]
+Initial width: 1.490687e-014
+Time of width calc: 0.000000
+Time of Krawczyk iteration: 0.062400
+--------------------
+
+The order of variables:
+x
+y
+z
+--------------------

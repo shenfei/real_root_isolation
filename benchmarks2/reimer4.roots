@@ -1,0 +1,115 @@
+SUMMURY:
+--------------------
+The # of total roots of Homotopy: 36
+The # of real roots of Homotopy: 
+The # of real roots verified: 8
+The # of real roots of Discoverer: 
+The complex roots prior detected: 28 / 36
+The # of repeat roots processed: 0
+
+The average iteration times: 1.000
+The total time: 2.480416
+The time of Homotopy: 0.374402
+The time of interval arithmetic: 2.059213
+The time of disjoint and narrowing process: 0.031200
+The time of Discoverer: 
+
+The average radius of result interval: 1.110223e-016
+The max initial width: 1.385171e-013
+The average of initial width: 1.258465e-014
+
+The max width calc time: 0.062400
+The average of width calc time: 0.029034
+
+The max Krawczyk iteration time: 0.156001
+The average of Krawczyk iteration time: 0.122851
+--------------------
+
+ISOLATED REAL ROOTS
+--------------------
+1:
+[   0.40264591905223,   0.40264591905224]
+[   0.70281784593572,   0.70281784593573]
+[   0.92049796029182,   0.92049796029183]
+[  -0.12444800707566,  -0.12444800707565]
+Initial width: 1.656412e-014
+Time of width calc: 0.015600
+Time of Krawczyk iteration: 0.156001
+--------------------
+
+2:
+[   0.93049526909398,   0.93049526909399]
+[   0.74057635603986,   0.74057635603987]
+[   0.48100256896929,   0.48100256896930]
+[   0.22075230018295,   0.22075230018296]
+Initial width: 6.381960e-014
+Time of width calc: 0.062400
+Time of Krawczyk iteration: 0.156001
+--------------------
+
+3:
+[   0.40264591905223,   0.40264591905224]
+[  -0.12444800707567,  -0.12444800707565]
+[   0.92049796029182,   0.92049796029183]
+[   0.70281784593572,   0.70281784593573]
+Initial width: 2.158499e-014
+Time of width calc: 0.015600
+Time of Krawczyk iteration: 0.093601
+--------------------
+
+4:
+[   0.48100256896929,   0.48100256896930]
+[   0.74057635603986,   0.74057635603987]
+[   0.93049526909398,   0.93049526909399]
+[   0.22075230018295,   0.22075230018296]
+Initial width: 5.426136e-014
+Time of width calc: 0.062400
+Time of Krawczyk iteration: 0.124801
+--------------------
+
+5:
+[   0.93049526909398,   0.93049526909399]
+[   0.22075230018295,   0.22075230018296]
+[   0.48100256896929,   0.48100256896930]
+[   0.74057635603986,   0.74057635603987]
+Initial width: 1.385171e-013
+Time of width calc: 0.031200
+Time of Krawczyk iteration: 0.124801
+--------------------
+
+6:
+[   0.92049796029182,   0.92049796029183]
+[   0.70281784593572,   0.70281784593573]
+[   0.40264591905223,   0.40264591905224]
+[  -0.12444800707567,  -0.12444800707566]
+Initial width: 2.309134e-014
+Time of width calc: 0.015600
+Time of Krawczyk iteration: 0.078001
+--------------------
+
+7:
+[   0.48100256896929,   0.48100256896930]
+[   0.22075230018295,   0.22075230018296]
+[   0.93049526909398,   0.93049526909399]
+[   0.74057635603986,   0.74057635603987]
+Initial width: 6.571377e-014
+Time of width calc: 0.031200
+Time of Krawczyk iteration: 0.124801
+--------------------
+
+8:
+[   0.92049796029182,   0.92049796029183]
+[  -0.12444800707566,  -0.12444800707565]
+[   0.40264591905223,   0.40264591905224]
+[   0.70281784593572,   0.70281784593573]
+Initial width: 7.881722e-015
+Time of width calc: 0.015600
+Time of Krawczyk iteration: 0.124801
+--------------------
+
+The order of variables:
+x1
+x2
+x3
+x4
+--------------------
